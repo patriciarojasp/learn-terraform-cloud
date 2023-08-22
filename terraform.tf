@@ -6,7 +6,7 @@ terraform {
   #   workspaces {
   #     name = "learn-terraform-cloud"
   #   }
-  }
+  #}
 
   required_providers {
     aws = {
